@@ -1,0 +1,1 @@
+This shaders work with the universal render pipeline
